@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyGallery</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="previa">imgprevia</string>
+    <string name="galerydescription">galerydescription</string>
+    <string name="MyGalery">MyGalery</string>
+    <string name="MyOwnGalery">MyOwnGalery</string>
+    <string name="loginerror">Error</string>
+    <string name="register_error">Error</string>
+    <string name="agregarimagen">agregarimagen</string>
+</resources>
